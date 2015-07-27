@@ -32,3 +32,27 @@ form
 chat
 
 icon
+
+tip
+
+## components
+
+### tab
+
+### dropdown
+
+### progress
+
+### radio
+
+### checkbox
+
+### select
+
+### switcher
+
+### spinner
+
+### popover
+
+more...
