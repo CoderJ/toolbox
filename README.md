@@ -11,3 +11,9 @@ requestError
 
 
 ### object.js
+
+#### Date
+format getZhDay getRelativeTime
+
+#### String
+getQueryString
